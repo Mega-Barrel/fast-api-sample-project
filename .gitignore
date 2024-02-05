@@ -1,0 +1,6 @@
+# cached files
+__pycache__
+
+# project packages
+env-fast-api/
+
